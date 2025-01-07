@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback
+Disallow: /xmlrpc.php
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /private/
+Allow: /wp-content/uploads/
+Sitemap: https://studybug.me/sitemap.xml
